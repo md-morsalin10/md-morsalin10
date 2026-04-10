@@ -1,6 +1,6 @@
 <div align="center">
 
-
+<img width="1584" height="396" alt="Blue and Green Simple Software Engineer LinkedIn Banner" src="https://github.com/user-attachments/assets/1fb47504-6e70-42d7-86e5-f379b1ae02e9" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;React.js+%7C+Next.js+Enthusiast;MERN+Stack+Developer;Always+Learning+New+Things)](https://git.io/typing-svg)
 
@@ -28,7 +28,7 @@ const morsalin = {
   email: "mdmorsalinofficial10@gmail.com",
 };
 ```
-<img width="1584" height="396" alt="Blue and Green Simple Software Engineer LinkedIn Banner" src="https://github.com/user-attachments/assets/1fb47504-6e70-42d7-86e5-f379b1ae02e9" />
+
 
 - 🔭 Currently building **[DitiTools Platform](https://digitools-platform-a06-morsalin.netlify.app/)**
 - 🌱 Learning **React.js, Next.js & TypeScript**
