@@ -45,6 +45,8 @@ const morsalin = {
 [![DitiTools](https://github-readme-stats.vercel.app/api/pin/?username=md-morsalin10&repo=digitools-platform-a06-morsalin&theme=tokyonight)](https://github.com/md-morsalin10)
 
 </div>
+<img width="1355" height="628" alt="digitools" src="https://github.com/user-attachments/assets/43c03b58-50dd-4944-b852-f24f8ed8acee" />
+
 
 > **DitiTools Platform** — A multi-tool web application built with React.js. [Live Demo →](https://digitools-platform-a06-morsalin.netlify.app/)
 
