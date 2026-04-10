@@ -83,9 +83,7 @@ const morsalin = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=md-morsalin10&show_icons=true&theme=tokyonight&border_color=6C63FF" />
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-morsalin10&layout=compact&theme=tokyonight&border_color=6C63FF" />
+
 
 </div>
 
