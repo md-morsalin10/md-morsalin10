@@ -29,7 +29,6 @@ const morsalin = {
 };
 ```
 <img width="1584" height="396" alt="Blue and Green Simple Software Engineer LinkedIn Banner" src="https://github.com/user-attachments/assets/1fb47504-6e70-42d7-86e5-f379b1ae02e9" />
-<img width="1351" height="5800" alt="digitools-platform-a06-morsalin netlify app_" src="https://github.com/user-attachments/assets/adaa1d07-3553-44fd-9c88-2fb5efb12bdb" />
 
 - 🔭 Currently building **[DitiTools Platform](https://digitools-platform-a06-morsalin.netlify.app/)**
 - 🌱 Learning **React.js, Next.js & TypeScript**
