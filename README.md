@@ -51,6 +51,7 @@ const morsalin = {
 
 
 > **DitiTools Platform** — A multi-tool web application built with React.js. [Live Demo →](https://digitools-platform-a06-morsalin.netlify.app/)
+> **PH Play store** — A multi-tool web application built with React.js. [Live Demo →](https://ph-play-store-morsalin.netlify.app/)
 
 ---
 
