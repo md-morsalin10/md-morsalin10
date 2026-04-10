@@ -18,7 +18,7 @@
 ---
 
 ### 📊 GitHub Stats:
-![Morsalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=md-morsalin10&show_icons=true&theme=radical)
+![Morsalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=md-morsalin10&layout=compact&theme=radical)
 
 ---
