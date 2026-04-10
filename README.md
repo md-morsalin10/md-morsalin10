@@ -22,10 +22,15 @@
 const morsalin = {
   name: "Md. Morsalin",
   location: "Dhaka, Bangladesh",
-  role: "Aspiring MERN Stack Developer",
-  currentlyLearning: ["React.js", "Next.js", "TypeScript"],
-  askMeAbout: ["React", "Next.js", "JavaScript", "Tailwind CSS"],
-  funFact: "I turn coffee into clean, responsive UI",
+  role: "Aspiring Software Engineer",
+  education: "Diploma in Engineering (Graduated 2025)", 
+  training: "Professional Web Development Course @ Programming Hero",
+  currentlyLearning: ["Next.js (SSR/CSR)", "TypeScript", "System Design"],
+  askMeAbout: ["React", "JavaScript", "Tailwind CSS", "Responsive Design"],
+  tools: ["Figma", "Canva", "VS Code", "GitHub"],
+  codingPhilosophy: "Clean code and scalable architecture",
+  openTo: ["Internships", "Collaborations", "Freelance Projects"],
+  funFact: "I debug more than I sleep 💻",
   email: "mdmorsalinofficial10@gmail.com",
 };
 
