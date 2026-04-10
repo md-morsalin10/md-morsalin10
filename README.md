@@ -23,7 +23,6 @@ const morsalin = {
   name: "Md. Morsalin",
   location: "Dhaka, Bangladesh",
   role: "Aspiring MERN Stack Developer",
-  currentlyWorking: "DitiTools Platform",
   currentlyLearning: ["React.js", "Next.js", "TypeScript"],
   askMeAbout: ["React", "Next.js", "JavaScript", "Tailwind CSS"],
   funFact: "I turn coffee into clean, responsive UI",
@@ -33,7 +32,7 @@ const morsalin = {
 ```
 
 
-- 🔭 Currently building **[DitiTools Platform](https://digitools-platform-a06-morsalin.netlify.app/)**
+- 🔭 Currently Learning ** Next.js** 
 - 🌱 Learning **React.js, Next.js & TypeScript**
 - 💡 Interested in **Frontend Development & Full Stack projects**
 - 🤝 Open to **collaborations and freelance opportunities**
