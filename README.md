@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:48CAE4&height=200&section=header&text=Hi,%20I'm%20Md.%20Morsalin&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Passionate%20MERN%20Stack%20%26%20Frontend%20Developer%20from%20Bangladesh&descAlignY=58&descSize=16)
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;React.js+%7C+Next.js+Enthusiast;MERN+Stack+Developer;Always+Learning+New+Things)](https://git.io/typing-svg)
 
@@ -42,10 +42,9 @@ const morsalin = {
 
 <div align="center">
 
-[![DitiTools](https://github-readme-stats.vercel.app/api/pin/?username=md-morsalin10&repo=digitools-platform-a06-morsalin&theme=tokyonight)](https://github.com/md-morsalin10)
 
 </div>
-<img width="1355" height="628" alt="digitools" src="https://github.com/user-attachments/assets/43c03b58-50dd-4944-b852-f24f8ed8acee" />
+
 
 
 > **DitiTools Platform** — A multi-tool web application built with React.js. [Live Demo →](https://digitools-platform-a06-morsalin.netlify.app/)
