@@ -56,9 +56,9 @@ const morsalin = {
 
 > **DitiTools Platform** — A multi-tool web application built with React.js. [Live Demo →](https://digitools-platform-a06-morsalin.netlify.app/)
 > <br/>
-> **PH Play store** — A dynamic, interactive app store clone featuring modern UI and seamless navigation with React.js.. [Live Demo →](https://ph-play-store-morsalin.netlify.app/)
+> **PH Play store** — A dynamic, interactive app store clone featuring modern UI and seamless navigation with React.js.. [Live Demo →](https://first-next-js-project-swart.vercel.app/)
 > <br/>
-> **AI Model Hub — A comprehensive platform to explore and interact with various AI models, built with React.js. [Live Demo →](https://ai-model-hub-morsalin.netlify.app/)
+> **AI Model Hub** — A comprehensive platform to explore and interact with various AI models, built with React.js. [Live Demo →](https://ai-model-hub-morsalin.netlify.app/)
 
 ---
 
