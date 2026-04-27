@@ -59,6 +59,7 @@ const morsalin = {
 > **PH Play store** — A dynamic, interactive app store clone featuring modern UI and seamless navigation with React.js.. [Live Demo →](https://first-next-js-project-swart.vercel.app/)
 > <br/>
 > **AI Model Hub** — A comprehensive platform to explore and interact with various AI models, built with React.js. [Live Demo →](https://ai-model-hub-morsalin.netlify.app/)
+> **Keen Keeper** — A modern platform for friends to connect, chat, and share moments effortlessly. [Live Demo →](https://a7-keen-keeper-friends.netlify.app/)
 
 ---
 
