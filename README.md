@@ -62,7 +62,7 @@ const morsalin = {
 > <br/>
 > **Keen Keeper** — A modern platform for friends to connect, chat, and share moments effortlessly. [Live Demo →](https://a7-keen-keeper-friends.netlify.app/)
 > <br/>
-> **Skil Sphere** — A modern MERN-stack platform empowering users to master new skills through seamless online learning. [Live Demo →](https://a8-skill-sphere-online-learning-pla.vercel.app/)
+> **Skill Sphere** — A modern MERN-stack platform empowering users to master new skills through seamless online learning. [Live Demo →](https://a8-skill-sphere-online-learning-pla.vercel.app/)
 
 ---
 
