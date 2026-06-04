@@ -94,7 +94,7 @@ const morsalin = {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=md-morsalin10&theme=tokyonight&border=6C63FF&timezone=Asia%2FDhaka" alt="GitHub Streak" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=md-morsalin10&theme=tokyonight&border=6C63FF&fire=6C63FF&ring=6C63FF)](https://git.io/streak-stats)
 
 </div>
 
