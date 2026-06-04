@@ -1,5 +1,5 @@
 <div>
-  <img width="1584" height="396" alt="Banner" src="https://github.com/user-attachments/assets/1fb47504-6e70-42d7-86e5-f379b1ae02e9" />
+  <img width="1584" height="396" alt="Blue and Green Simple Software Engineer LinkedIn Banner" src="https://github.com/user-attachments/assets/1fb47504-6e70-42d7-86e5-f379b1ae02e9" />
 </div>
 
 <div align="center">
@@ -24,7 +24,7 @@ const morsalin = {
   location: "Dhaka, Bangladesh 🇧🇩",
   role: "Aspiring Software Engineer",
   education: "Diploma in Engineering (Graduated 2025)",
-  training: "Professional Web Development @ Programming Hero",
+  training: "Professional Web Development Course @ Programming Hero",
   currentlyLearning: ["Next.js (SSR/CSR)", "TypeScript", "System Design"],
   askMeAbout: ["React", "JavaScript", "Tailwind CSS", "Responsive Design"],
   tools: ["Figma", "Canva", "VS Code", "GitHub"],
@@ -46,7 +46,7 @@ const morsalin = {
 ## 🚀 Featured Projects
 
 | Project | Description | Tech | Live |
-|--------|-------------|------|------|
+|---------|-------------|------|------|
 | 🔧 **DitiTools** | Multi-tool web application | React.js | [→ Demo](https://digitools-platform-a06-morsalin.netlify.app/) |
 | 🛒 **PH Play Store** | App store clone with modern UI | React.js, Next.js | [→ Demo](https://first-next-js-project-swart.vercel.app/) |
 | 🤖 **AI Model Hub** | Platform to explore AI models | React.js | [→ Demo](https://ai-model-hub-morsalin.netlify.app/) |
@@ -94,7 +94,6 @@ const morsalin = {
 
 <div align="center">
 
-<!-- ✅ FIXED: demolab এর streak service অনেক বেশি stable -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=md-morsalin10&theme=tokyonight&border=6C63FF)](https://git.io/streak-stats)
 
 </div>
