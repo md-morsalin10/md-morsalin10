@@ -1,5 +1,5 @@
 <div>
-  <img width="1584" height="396" alt="Blue and Green Simple Software Engineer LinkedIn Banner" src="https://github.com/user-attachments/assets/1fb47504-6e70-42d7-86e5-f379b1ae02e9" />
+  <img width="1584" height="396" alt="Banner" src="https://github.com/user-attachments/assets/1fb47504-6e70-42d7-86e5-f379b1ae02e9" />
 </div>
 
 <div align="center">
@@ -21,10 +21,10 @@
 ```javascript
 const morsalin = {
   name: "Md. Morsalin",
-  location: "Dhaka, Bangladesh",
+  location: "Dhaka, Bangladesh 🇧🇩",
   role: "Aspiring Software Engineer",
-  education: "Diploma in Engineering (Graduated 2025)", 
-  training: "Professional Web Development Course @ Programming Hero",
+  education: "Diploma in Engineering (Graduated 2025)",
+  training: "Professional Web Development @ Programming Hero",
   currentlyLearning: ["Next.js (SSR/CSR)", "TypeScript", "System Design"],
   askMeAbout: ["React", "JavaScript", "Tailwind CSS", "Responsive Design"],
   tools: ["Figma", "Canva", "VS Code", "GitHub"],
@@ -33,13 +33,11 @@ const morsalin = {
   funFact: "I debug more than I sleep 💻",
   email: "mdmorsalinofficial10@gmail.com",
 };
-
 ```
 
-
-- 🔭 Currently Learning ** Next.js** 
-- 🌱 Learning **React.js, Next.js & TypeScript**
-- 💡 Interested in **Frontend Development & Full Stack projects**
+- 🔭 Currently building **HireLoop** — a job platform with Next.js & HeroUI
+- 🌱 Deepening skills in **React.js, Next.js & TypeScript**
+- 💡 Passionate about **Frontend Development & Full Stack projects**
 - 🤝 Open to **collaborations and freelance opportunities**
 - 📫 Reach me at **mdmorsalinofficial10@gmail.com**
 
@@ -47,22 +45,13 @@ const morsalin = {
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-
-</div>
-
-
-
-> **DitiTools Platform** — A multi-tool web application built with React.js. [Live Demo →](https://digitools-platform-a06-morsalin.netlify.app/)
-> <br/>
-> **PH Play store** — A dynamic, interactive app store clone featuring modern UI and seamless navigation with React.js.. [Live Demo →](https://first-next-js-project-swart.vercel.app/)
-> <br/>
-> **AI Model Hub** — A comprehensive platform to explore and interact with various AI models, built with React.js. [Live Demo →](https://ai-model-hub-morsalin.netlify.app/)
-> <br/>
-> **Keen Keeper** — A modern platform for friends to connect, chat, and share moments effortlessly. [Live Demo →](https://a7-keen-keeper-friends.netlify.app/)
-> <br/>
-> **Skill Sphere** — A modern MERN-stack platform empowering users to master new skills through seamless online learning. [Live Demo →](https://a8-skill-sphere-online-learning-pla.vercel.app/)
+| Project | Description | Tech | Live |
+|--------|-------------|------|------|
+| 🔧 **DitiTools** | Multi-tool web application | React.js | [→ Demo](https://digitools-platform-a06-morsalin.netlify.app/) |
+| 🛒 **PH Play Store** | App store clone with modern UI | React.js, Next.js | [→ Demo](https://first-next-js-project-swart.vercel.app/) |
+| 🤖 **AI Model Hub** | Platform to explore AI models | React.js | [→ Demo](https://ai-model-hub-morsalin.netlify.app/) |
+| 💬 **Keen Keeper** | Social platform for friends | React.js | [→ Demo](https://a7-keen-keeper-friends.netlify.app/) |
+| 📚 **Skill Sphere** | Online learning MERN platform | MERN Stack | [→ Demo](https://a8-skill-sphere-online-learning-pla.vercel.app/) |
 
 ---
 
@@ -98,13 +87,15 @@ const morsalin = {
 
 <div align="center">
 
-
+<img src="https://github-readme-stats.vercel.app/api?username=md-morsalin10&show_icons=true&theme=tokyonight&border_color=6C63FF&hide_border=false" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-morsalin10&layout=compact&theme=tokyonight&border_color=6C63FF" height="180" />
 
 </div>
 
 <div align="center">
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=md-morsalin10&theme=tokyonight&border=6C63FF)
+<!-- ✅ FIXED: demolab এর streak service অনেক বেশি stable -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=md-morsalin10&theme=tokyonight&border=6C63FF)](https://git.io/streak-stats)
 
 </div>
 
