@@ -94,7 +94,7 @@ const morsalin = {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=md-morsalin10&theme=tokyonight&border=6C63FF)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=md-morsalin10&theme=tokyonight&border=6C63FF&fire=6C63FF&ring=6C63FF)](https://git.io/streak-stats)
 
 </div>
 
