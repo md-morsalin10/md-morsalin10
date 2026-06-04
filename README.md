@@ -9,7 +9,6 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=md-morsalin10&label=Profile+Views&color=6C63FF&style=flat-square)
-![Followers](https://img.shields.io/github/followers/md-morsalin10?label=Followers&style=flat-square&color=6C63FF)
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Yes-brightgreen?style=flat-square)
 
 </div>
@@ -87,8 +86,8 @@ const morsalin = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=md-morsalin10&show_icons=true&theme=tokyonight&border_color=6C63FF&hide_border=false" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-morsalin10&layout=compact&theme=tokyonight&border_color=6C63FF" height="180" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=md-morsalin10&show_icons=true&theme=tokyonight&border_color=6C63FF&hide_border=false" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-morsalin10&layout=compact&theme=tokyonight&border_color=6C63FF" height="180" /> -->
 
 </div>
 
