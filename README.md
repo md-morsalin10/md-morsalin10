@@ -93,8 +93,8 @@ const morsalin = {
 </div>
 
 <div align="center">
-<!-- Option 1 -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=md-morsalin10&theme=tokyonight&border=6C63FF&zone=Asia/Dhaka)](https://git.io/streak-stats)
+
+<img src="https://streak-stats.demolab.com?user=md-morsalin10&theme=tokyonight&border=6C63FF&timezone=Asia%2FDhaka" alt="GitHub Streak" />
 
 </div>
 
