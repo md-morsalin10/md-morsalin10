@@ -38,7 +38,7 @@ const morsalin = {
 - 🌱 Deepening skills in **React.js, Next.js & TypeScript**
 - 💡 Passionate about **Frontend Development & Full Stack projects**
 - 🤝 Open to **collaborations and freelance opportunities**
-- 📫 Reach me at **mdmorsalinofficial10@gmail.com**
+- 📫 Reach me at **mdmorsalinafsan501921@gmail.com**
 
 ---
 
@@ -46,11 +46,10 @@ const morsalin = {
 
 | Project | Description | Tech | Live |
 |---------|-------------|------|------|
-| 🔧 **DitiTools** | Multi-tool web application | React.js | [→ Demo](https://digitools-platform-a06-morsalin.netlify.app/) |
-| 🛒 **PH Play Store** | App store clone with modern UI | React.js, Next.js | [→ Demo](https://first-next-js-project-swart.vercel.app/) |
+| 📚 **StudyNook** | Smart Study Space Booking Platform | MERN stack | [→ Demo](https://study-nook-frontend.vercel.app/) |
 | 🤖 **AI Model Hub** | Platform to explore AI models | React.js | [→ Demo](https://ai-model-hub-morsalin.netlify.app/) |
 | 💬 **Keen Keeper** | Social platform for friends | React.js | [→ Demo](https://a7-keen-keeper-friends.netlify.app/) |
-| 📚 **Skill Sphere** | Online learning MERN platform | MERN Stack | [→ Demo](https://a8-skill-sphere-online-learning-pla.vercel.app/) |
+| 📚 **Skill Sphere** | Online learning MERN platform | Next.js | [→ Demo](https://a8-skill-sphere-online-learning-pla.vercel.app/) |
 
 ---
 
