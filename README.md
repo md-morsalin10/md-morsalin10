@@ -38,7 +38,7 @@ const morsalin = {
 - 🌱 Deepening skills in **React.js, Next.js & TypeScript**
 - 💡 Passionate about **Frontend Development & Full Stack projects**
 - 🤝 Open to **collaborations and freelance opportunities**
-- 📫 Reach me at **mdmorsalinafsan501921@gmail.com**
+- 📫 Reach me at **mdmorsalindeveloper@gmail.com**
 
 ---
 
