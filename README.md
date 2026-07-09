@@ -85,14 +85,14 @@ const morsalin = {
 
 <div align="center">
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=md-morsalin10&show_icons=true&theme=tokyonight&border_color=6C63FF&hide_border=false" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-morsalin10&layout=compact&theme=tokyonight&border_color=6C63FF" height="180" /> -->
+<img src="https://github-readme-stats.vercel.app/api?username=md-morsalin10&show_icons=true&theme=tokyonight&border_color=6C63FF&hide_border=false" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-morsalin10&layout=compact&theme=tokyonight&border_color=6C63FF" height="180" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=md-morsalin10&theme=tokyonight&border=6C63FF&fire=6C63FF&ring=6C63FF)](https://git.io/streak-stats)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=md-morsalin10&theme=tokyonight" width="100%" />
 
 </div>
 
@@ -101,7 +101,6 @@ const morsalin = {
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=md-morsalin10&theme=tokyo-night&border_color=6C63FF)
 
 </div>
-
 ---
 
 ## 🤝 Connect With Me
