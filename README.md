@@ -24,7 +24,7 @@ const morsalin = {
   role: "Aspiring Software Engineer",
   education: "Diploma in Engineering (Graduated 2025)",
   training: "Professional Web Development Course @ Programming Hero",
-  currentlyLearning: ["TypeScript", Redux, Mongoes],
+  currentlyLearning: ["TypeScript"],
   askMeAbout: ["React", "JavaScript", "Tailwind CSS", "Responsive Design"],
   tools: ["Figma", "Canva", "VS Code", "GitHub"],
   codingPhilosophy: "Clean code and scalable architecture",
@@ -35,7 +35,7 @@ const morsalin = {
 ```
 
 - 🔭 Currently building **Fable** — ebook Sharing platform with Next.js
-- 🌱 Deepening skills in **React.js, Next.js & TypeScript**
+- 🌱 Deepening skills in **React.js, Next.js & JavaScript**
 - 💡 Passionate about **Frontend Development & Full Stack projects**
 - 🤝 Open to **collaborations and freelance opportunities**
 - 📫 Reach me at **mdmorsalindeveloper@gmail.com**
