@@ -24,7 +24,7 @@ const morsalin = {
   role: "Aspiring Software Engineer",
   education: "Diploma in Engineering (Graduated 2025)",
   training: "Professional Web Development Course @ Programming Hero",
-  currentlyLearning: ["Next.js (SSR/CSR)", "TypeScript", "System Design"],
+  currentlyLearning: ["TypeScript", Redux, Mongoes],
   askMeAbout: ["React", "JavaScript", "Tailwind CSS", "Responsive Design"],
   tools: ["Figma", "Canva", "VS Code", "GitHub"],
   codingPhilosophy: "Clean code and scalable architecture",
@@ -34,7 +34,7 @@ const morsalin = {
 };
 ```
 
-- 🔭 Currently building **HireLoop** — a job platform with Next.js & HeroUI
+- 🔭 Currently building **Fable** — ebook Sharing platform with Next.js
 - 🌱 Deepening skills in **React.js, Next.js & TypeScript**
 - 💡 Passionate about **Frontend Development & Full Stack projects**
 - 🤝 Open to **collaborations and freelance opportunities**
@@ -85,8 +85,8 @@ const morsalin = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=md-morsalin10&show_icons=true&theme=tokyonight&border_color=6C63FF&hide_border=false" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-morsalin10&layout=compact&theme=tokyonight&border_color=6C63FF" height="180" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=md-morsalin10&show_icons=true&theme=tokyonight&border_color=6C63FF&hide_border=false" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-morsalin10&layout=compact&theme=tokyonight&border_color=6C63FF" height="180" /> -->
 
 </div>
 
@@ -98,7 +98,7 @@ const morsalin = {
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=md-morsalin10&theme=tokyonight" width="100%" />
+<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=md-morsalin10&theme=tokyonight" width="100%" /> -->
 
 </div>
 
