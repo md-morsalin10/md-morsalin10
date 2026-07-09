@@ -30,7 +30,7 @@ const morsalin = {
   codingPhilosophy: "Clean code and scalable architecture",
   openTo: ["Internships", "Collaborations", "Freelance Projects"],
   funFact: "I debug more than I sleep 💻",
-  email: "mdmorsalinofficial10@gmail.com",
+  email: "mdmorsalindeveloper@gmail.com",
 };
 ```
 
@@ -92,6 +92,12 @@ const morsalin = {
 
 <div align="center">
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=md-morsalin10&theme=tokyonight&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=md-morsalin10&theme=tokyonight" width="100%" />
 
 </div>
@@ -101,6 +107,7 @@ const morsalin = {
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=md-morsalin10&theme=tokyo-night&border_color=6C63FF)
 
 </div>
+
 ---
 
 ## 🤝 Connect With Me
